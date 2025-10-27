@@ -23,7 +23,7 @@ Background in **Cognitive Science & Business Economics (UCLA)**
 ### Projects  
 - 🎓 Currently: **AI × Sustainability Thesis Project** – teaching people about AI’s environmental impact  
 - 🧩 [**SmallTalk**](https://github.com/ethanherrera/smalltalk) – a language-learning app for real conversation practice  
-- 🛰️ [**Rover LLM Interface**] – voice-controlled rover system for space and education use  
+- 🛰️ [**Ursa**] (https://drive.google.com/file/d/1NvpsSegETeDVZNFZzQPrYR6RBzcUp3Kg/view?usp=drive_link) – Qualcomm funded voice-controlled LLM rover system for space
 
 ---
 
