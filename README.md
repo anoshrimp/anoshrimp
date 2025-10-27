@@ -6,7 +6,7 @@ Background in **Cognitive Science & Business Economics (UCLA)**
 
 ---
 
-### 🧭 What I Do  
+### What I Do  
 - **UX Research & Design:** Translating messy ideas into clear, human-centered systems  
 - **Speculative & Interactive Design:** Designing experiences that question technology’s role in our lives  
 - **AI & Education Research:** Making AI literacy playful, ethical, and accessible for children  
@@ -14,23 +14,22 @@ Background in **Cognitive Science & Business Economics (UCLA)**
 
 ---
 
-### 🧰 Tools & Skills  
+### Tools & Skills  
 **Design:** Figma, Illustrator, Unity, Fusion 360  
 **Research:** Affinity Mapping, Thematic Analysis, Survey Design, R, NVivo  
 **Code:** Python, p5.js, JavaScript, Arduino, HTML/CSS  
 
 ---
 
-### 🌱 Projects  
+### Projects  
 - 🎓 Currently: **AI × Sustainability Thesis Project** – teaching people about AI’s environmental impact  
 - 🧩 **SmallTalk** – a language-learning app for real conversation practice  
 - 🛰️ **Rover LLM Interface** – voice-controlled rover system for space and education use  
 
 ---
 
-### ✨ Beyond Work  
-📸 I love **photography**, **video editing & shooting (vlogs & commericals!)**, and designing **interactive ASMR triggers**.  
-🐈 Cat-lover. ☕ Matcha over coffee.  
+### Beyond Work  
+I love **photography**, **video editing & shooting (vlogs & commericals!)**, and designing **interactive ASMR triggers**.  
 🌏 Currently based in Oakland, California, USA.
 🇨🇦 From Vancouver, BC, Canada.
 
