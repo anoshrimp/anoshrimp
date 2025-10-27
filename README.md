@@ -9,7 +9,6 @@ Background in **Cognitive Science & Business Economics (UCLA)**
 ### What I Do  
 - **UX Research & Design:** Translating messy ideas into clear, human-centered systems  
 - **Speculative & Interactive Design:** Designing experiences that question technology’s role in our lives  
-- **AI & Education Research:** Making AI literacy playful, ethical, and accessible for children  
 - **Emerging Tech Projects:** From LLM-driven rover control interfaces to haptic wearables and AR games  
 
 ---
