@@ -15,15 +15,14 @@ Background in **Cognitive Science & Business Economics (UCLA)**
 ---
 
 ### Tools & Skills  
-**Design:** Figma, Illustrator, Unity, Fusion 360  
-**Research:** Affinity Mapping, Thematic Analysis, Survey Design, R, NVivo  
-**Code:** Python, p5.js, JavaScript, Arduino, HTML/CSS  
+**Design:** Figma (&Figma Make), Illustrator, Unity, Fusion 360
+**Code:** Python, p5.js, JavaScript, Arduino, HTML/CSS
 
 ---
 
 ### Projects  
 - 🎓 Currently: **AI × Sustainability Thesis Project** – teaching people about AI’s environmental impact  
-- 🧩 **SmallTalk** – a language-learning app for real conversation practice  
+- 🧩 **SmallTalk**(https://github.com/ethanherrera/smalltalk) – a language-learning app for real conversation practice  
 - 🛰️ **Rover LLM Interface** – voice-controlled rover system for space and education use  
 
 ---
