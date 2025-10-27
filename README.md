@@ -14,7 +14,8 @@ Background in **Cognitive Science & Business Economics (UCLA)**
 ---
 
 ### Tools & Skills  
-**Design:** Figma (&Figma Make), Illustrator, Unity, Fusion 360 
+**Design:** Figma (&Figma Make), Illustrator, Unity, Fusion 360    
+
 **Code:** Python, p5.js, JavaScript, Arduino, HTML/CSS
 
 ---
