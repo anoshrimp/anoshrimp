@@ -1,16 +1,16 @@
 # 👋 Hi, I'm Sharon Zhao  
 
-🎓 **Master of Design @ UC Berkeley**  
-💡 Exploring the intersection of **AI, design, and human experience**  
-🧠 Background in **Cognitive Science & Business Economics (UCLA)**  
+**Master of Design @ UC Berkeley**  
+Exploring the intersection of **AI, design, and human experience**  
+Background in **Cognitive Science & Business Economics (UCLA)**  
 
 ---
 
 ### 🧭 What I Do  
-- 🧩 **UX Research & Design:** Translating messy ideas into clear, human-centered systems  
-- 🪄 **Speculative & Interactive Design:** Designing experiences that question technology’s role in our lives  
-- 🤖 **AI & Education Research:** Making AI literacy playful, ethical, and accessible for children  
-- 🛰️ **Emerging Tech Projects:** From LLM-driven rover control interfaces to haptic wearables and AR games  
+- **UX Research & Design:** Translating messy ideas into clear, human-centered systems  
+- **Speculative & Interactive Design:** Designing experiences that question technology’s role in our lives  
+- **AI & Education Research:** Making AI literacy playful, ethical, and accessible for children  
+- **Emerging Tech Projects:** From LLM-driven rover control interfaces to haptic wearables and AR games  
 
 ---
 
@@ -40,7 +40,3 @@
 [🌐 Portfolio](https://sharontzhao.com) • [💼 LinkedIn](https://www.linkedin.com/in/sharon-t-zhao/)
 
 > “Design is where intuition meets intention.”  
-
----
-
-⭐️ _Thanks for visiting my space—feel free to explore my projects and reach out if you’d like to collaborate!_
