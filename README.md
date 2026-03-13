@@ -2,7 +2,7 @@
 
 **Master of Design @ UC Berkeley**  
 Exploring the intersection of **AI, design, and human experience**  
-Background in **Cognitive Science & Business Economics (UCLA)**  
+Background in **Cognitive Science & Business Economics from UCLA**  
 
 ---
 
@@ -28,9 +28,9 @@ Background in **Cognitive Science & Business Economics (UCLA)**
 ---
 
 ### Beyond Work  
-I love **photography**, **video editing & shooting (vlogs & commericals!)**, and designing **interactive ASMR triggers**.  
-🌏 Currently based in Oakland, California, USA.
-🇨🇦 From Vancouver, BC, Canada.
+I love **photography**, **video editing & shooting (vlogs & commericals!)**, and learning languages **(currently learning Japanese!)**.  
+🌏 Currently based in San Francisco, California, USA.
+x From Vancouver, BC, Canada & Shanghai, China
 
 ---
 
