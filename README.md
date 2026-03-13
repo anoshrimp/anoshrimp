@@ -14,7 +14,7 @@ Background in **Cognitive Science & Business Economics from UCLA**
 ---
 
 ### Tools & Skills  
-**Design:** Figma (&Figma Make), Illustrator, Unity, Fusion 360    
+**Design:** Figma, Illustrator, Unity, Fusion 360    
 
 **Code:** Python, p5.js, JavaScript, Arduino, HTML/CSS
 
@@ -29,8 +29,8 @@ Background in **Cognitive Science & Business Economics from UCLA**
 
 ### Beyond Work  
 I love **photography**, **video editing & shooting (vlogs & commericals!)**, and learning languages **(currently learning Japanese!)**.  
-🌏 Currently based in San Francisco, California, USA.
-x From Vancouver, BC, Canada & Shanghai, China
+🌏 Currently based in San Francisco, California, USA.  
+📍 From Vancouver, BC, Canada & Shanghai, China
 
 ---
 
